@@ -25,7 +25,7 @@ The following personnel are responsible for overseeing and implementing security
 - End Users (Employees, Consultants): Responsibilities include adhering to the organization's data protection policies, procedures, and practices and reporting instances of non-compliance to the CTO.
 - Vendors (includes Contractors and other Third Parties): Responsibilities include all those applicable to end users. In addition, vendors, contractors, and third parties are responsible for:
   - Avoiding any measure to alter standards that protect customer data
-  - Completing due diligence and ongoing monitoring assessments per the requirements set forth in the Vendor Management Policy
+  - Completing due diligence and ongoing monitoring assessments per the requirements set forth in the [Vendor Management Policy](vendor-management.md)
   - Immediately notifying Screendesk of any policy violations involving customer data
 
 Every end user and vendor is responsible for identifying and mitigating risks associated with the protection of Confidential information and must comply with all the policies within this Information Security Policy.
@@ -33,3 +33,15 @@ Every end user and vendor is responsible for identifying and mitigating risks as
 ## Policy Review
 
 The CTO is responsible for reviewing Screendesk's policies and procedures on at least an annual basis to ensure they remain accurate and up-to-date with current operations and compliance requirements.
+
+## Related Policies
+
+- [Access Control Policy](access-control.md)
+- [Change Management Policy](change-management.md)
+- [Incident Management Policy](incident-management.md)
+- [Monitoring Policy](monitoring.md)
+- [Network and System Security Policy](network-and-system.md)
+- [People Security Policy](people-security.md)
+- [Risk Management Policy](risk-management.md)
+- [Vendor Management Policy](vendor-management.md)
+- [Vulnerability Management Policy](vulnerability-management.md)
