@@ -1,0 +1,27 @@
+# Ignore the security tasks generator script
+create_security_tasks_with_dates.py
+
+# Python-related files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+*.env
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Other potentially sensitive files
+*.token
+*.key
